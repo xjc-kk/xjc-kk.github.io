@@ -1,7 +1,6 @@
 ### About Me
 
-Hi, I’m Jincheng Xu, an undergraduate student majoring in computer science at Peking University, Beijing, P.R.China.   
-I will continue my graduate study in Columbia University beginning in Fall 2021.  
+Hi, I’m Jincheng Xu, an undergraduate student majoring in computer science at Peking University. I will continue my graduate study in Columbia University beginning in Fall 2021.  
   
 I am interested in Machine Learning and Computer Vision.
 
