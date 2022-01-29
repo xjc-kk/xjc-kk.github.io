@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I’m **Jincheng Xu**, a master student majoring in Computer Science at Columbia University. I graduated from Peking University in 2021.  
+Hi, I’m **Jincheng Xu**, a master student majoring in Computer Science at Columbia University. I received my B.S. degree in Computer Science from Peking University in 2021.  
   
 I am interested in **Machine Learning** and **Computer Vision**.
   
