@@ -5,7 +5,7 @@ Hi, I’m **Jincheng Xu**, a master student majoring in Computer Science at Colu
 I am interested in **Machine Learning** and **Computer Vision**.
   
 <div  align="center">
-<img src="https://user-images.githubusercontent.com/49300826/116401928-63d18600-a85e-11eb-997f-048f35f3a1c4.jpg" width = "300" height = "300" />
+<img src="photo.jpg" width = "300" height = "300" />
 </div>  
   
 ### Email Me
