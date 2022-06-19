@@ -2,7 +2,7 @@
 
 Hi, I’m **Jincheng Xu**, a master student majoring in Computer Science at Columbia University. I received my B.S. degree in Computer Science from Peking University in 2021.  
   
-I am interested in **Machine Learning** and **Computer Vision**.
+I am interested in **Machine Learning** and **Computer Vision**. I am currently a Research Assistant at The Digital Video and Multimedia(DVMM) Lab at Columbia University.
   
 <div  align="center">
 <img src="photo.png" width = "300" height = "300" />
