@@ -16,4 +16,8 @@ xu.jincheng@columbia.edu
 
 **Revisiting 3D Context Modeling with Supervised Pre-training for Universal Lesion Detection in CT Slices** [[PDF]](https://arxiv.org/pdf/2012.08770.pdf)  
 Shu Zhang, Jincheng Xu, Yu-Chun Chen, Jiechao Ma, Zihao Li, Yizhou Wang and Yizhou Yu  
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2020.
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2020.
+
+**DiGeo: Discriminative Geometry-Aware Learning forGeneralized Few-Shot Object Detection**
+Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, Guangxing Han, Shih-Fu Chang
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023.
