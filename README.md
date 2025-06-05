@@ -23,5 +23,5 @@ Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, Guangxing Han, Shih-Fu Chang
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023.
 
 **Finding What Users Look for by Attribute-Aware Personalized Item Comparison in Relevant Recommendation** [[PDF]](https://web.archive.org/web/20240521094726id_/https://dl.acm.org/doi/pdf/10.1145/3589335.3651508)  
-Rui Ma, Dike Sun, Jincheng Xu, Jingsong Yuan, Jiandong Zhang
+Rui Ma, Dike Sun, Jincheng Xu, Jingsong Yuan, Jiandong Zhang  
 Companion Proceedings of the ACM Web Conference 2024, 549-552.
