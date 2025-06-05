@@ -18,6 +18,10 @@ xu.jincheng@columbia.edu
 Shu Zhang, Jincheng Xu, Yu-Chun Chen, Jiechao Ma, Zihao Li, Yizhou Wang and Yizhou Yu  
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2020.
 
-**DiGeo: Discriminative Geometry-Aware Learning forGeneralized Few-Shot Object Detection**  [[PDF]](https://arxiv.org/pdf/2303.09674.pdf)  
+**DiGeo: Discriminative Geometry-Aware Learning forGeneralized Few-Shot Object Detection** [[PDF]](https://arxiv.org/pdf/2303.09674.pdf)  
 Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, Guangxing Han, Shih-Fu Chang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023.
+
+**Finding What Users Look for by Attribute-Aware Personalized Item Comparison in Relevant Recommendation** [[PDF]](https://web.archive.org/web/20240521094726id_/https://dl.acm.org/doi/pdf/10.1145/3589335.3651508)  
+Rui Ma, Dike Sun, Jincheng Xu, Jingsong Yuan, Jiandong Zhang
+Companion Proceedings of the ACM Web Conference 2024, 549-552.
