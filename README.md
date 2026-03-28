@@ -4,7 +4,7 @@ Hi, I’m **Jincheng Xu**, I received my M.S degree in Computer Science from Col
 
 **Machine Learning** and **Recommender System** sounds intriguing to me. I currently work as a senior algorithm engineer at [Kuaishou](https://zhaopin.kuaishou.cn/#/official/jianghu/), one of the largest short video platforms in China.
 
-If you are interested in recommendation and consider to join, please send your resume with **NO HESITATION**!
+If you are interested in building the cutting-edge recommender system, please send your resume with **NO HESITATION**!
   
 <div  align="center">
 <img src="photo.png" width = "300" height = "300" />
