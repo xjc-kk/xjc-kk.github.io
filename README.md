@@ -1,8 +1,10 @@
 ### About Me
 
 Hi, I’m **Jincheng Xu**, I received my M.S degree in Computer Science from Columbia University in 2023 and B.S. degree in Computer Science from Peking University in 2021.  
-  
-I am interested in **Machine Learning** and **Recommender System**. I am currently an Application Algorithm Engineer at Lazada.
+
+**Machine Learning** and **Recommender System** sounds intriguing to me. I currently work as a senior algorithm engineer at [Kuaishou](https://zhaopin.kuaishou.cn/#/official/jianghu/), one of the largest short video platforms in China.
+
+If you are interested in recommendation and consider to join, please send your resume with **NO HESITATION**!
   
 <div  align="center">
 <img src="photo.png" width = "300" height = "300" />
